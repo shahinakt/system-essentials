@@ -1,4 +1,4 @@
-# Phase 0 — Complete Study Package
+git # Phase 0 — Complete Study Package
 ## Mathematical & Logical Foundations
 ### Chapter Reading Lists · Weekly Schedules · Graded Problem Sets
 
